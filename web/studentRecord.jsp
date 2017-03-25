@@ -7,7 +7,7 @@
 
 <BODY>
 <TABLE align="center" width="100%" border="1">
-	<TR height="50" bgcolor="#CCFFFF">
+	<TR height="50" bgcolor="teal">
 		<TD align="center" colspan="3">STUDENT RECORD</TD>
 	</TR>
 	<TR height="40" bgcolor="#FFFFCC">
